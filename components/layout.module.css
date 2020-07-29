@@ -1,0 +1,12 @@
+.navigation {
+    width: 100%;
+    background-color: aquamarine;
+    color: blue;
+    height: 80px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
